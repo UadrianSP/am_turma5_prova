@@ -734,7 +734,7 @@ print(f"Acurácia Obtida: {accuracy_score(y_test, gnb_p14.predict(X_test_scaled)
 
 ---
 
-### Prova Prática 15: Predição do Sentimento de Notícias de Mercado Financeiro
+### Prova Prática 15: Predição do Sentimento de Notícias de Mercado Financeiro (escolhi essa - Uadrian)
 * **Objetivo Pedagógico:** Prever se o sentimento geral de um lote de notícias financeiras será otimista (*Bullish*) ou pessimista (*Bearish*) utilizando o score de inteligência de mercado da Alpha Vantage.
 * **Fontes de Dados:** Endpoint `NEWS_SENTIMENT` da Alpha Vantage (`function=NEWS_SENTIMENT&tickers=AAPL`).
 * **Roteiro Didático de Execução:**
